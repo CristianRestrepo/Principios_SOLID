@@ -7,8 +7,8 @@
     <ProjectGuid>{5200BC2B-9891-4279-9887-27E9468ADDDA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SingleResponsabilityPrinciple</RootNamespace>
-    <AssemblyName>SingleResponsabilityPrinciple</AssemblyName>
+    <RootNamespace>SingleResponsability</RootNamespace>
+    <AssemblyName>SingleResponsability</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
